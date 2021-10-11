@@ -26,7 +26,7 @@ function Header() {
 				</div>
 
 				<div className="buttons">
-					<a href="/" className="btn-git">Ver repositório <img alt="icone github" src="images/github-icon-1.svg" /></a>
+					<a target="_blank" rel="noreferrer"href="https://github.com/erosMariano/github-serch-app" className="btn-git">Ver repositório <img alt="icone github" src="images/github-icon-1.svg" /></a>
 					<a href="/" className="figma-btn"><img alt="icone do figma" src="images/figma-icon.svg" /></a>
 				</div>
 
